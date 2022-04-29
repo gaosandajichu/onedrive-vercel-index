@@ -14,14 +14,14 @@ module.exports = {
   icon: '/icons/128.png',
 
   // The name of your website. Present alongside your icon.
-  title: "Spencer's OneDrive",
+  title: "ddlWarrior's OneDrive",
 
   // The folder that you are to share publicly with onedrive-vercel-index. Use '/' if you want to share your root folder.
   baseDirectory: '/myCloudDisk',
 
   // [OPTIONAL] This represents the maximum number of items that one directory lists, pagination supported.
   // Do note that this is limited up to 200 items by the upstream OneDrive API.
-  maxItems: 100,
+  maxItems: 200,
 
   // [OPTIONAL] We use Google Fonts natively for font customisations.
   // You can check and generate the required links and names at https://fonts.google.com.
@@ -42,7 +42,7 @@ module.exports = {
   protectedRoutes: ['/🌞 Private folder/u-need-a-password', '/🥟 Some test files/Protected route'],
 
   // [OPTIONAL] Use "" here if you want to remove this email address from the nav bar.
-  email: 'mailto:spencer.wushangbo@gmail.com',
+  email: '3544282094@qq.com',
 
   // [OPTIONAL] This is an array of names and links for setting your social information and links.
   // In the latest update, all brand icons inside font awesome is supported and the icon to render is based on the name
@@ -52,8 +52,12 @@ module.exports = {
       name: 'GitHub',
       link: 'https://github.com/spencerwooo/onedrive-vercel-index',
     },
+    // {
+    //   name: 'Telegram',
+    //   link: 'https://t.me/realSpencerWoo',
+    // },
     {
-      name: 'Telegram',
+      name: 'qq',
       link: 'https://t.me/realSpencerWoo',
     },
   ],
