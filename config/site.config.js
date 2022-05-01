@@ -57,7 +57,7 @@ module.exports = {
     //   link: 'https://t.me/realSpencerWoo',
     // },
     {
-      name: 'house-heart',
+      name: 'qq',
       link: 'http://114.115.223.22/',
     },
    ],
