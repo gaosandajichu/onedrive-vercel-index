@@ -57,7 +57,7 @@ module.exports = {
     //   link: 'https://t.me/realSpencerWoo',
     // },
     {
-      name: 'ddl战士的妙妙屋',
+      name: 'house',
       link: 'http://114.115.223.22/',
     },
    ],
